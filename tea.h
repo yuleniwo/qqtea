@@ -1,7 +1,7 @@
-﻿#ifndef _TEA_H_
+#ifndef _TEA_H_
 #define _TEA_H_
 
-#include "../common/defs.h"
+#include "defs.h"
 
 typedef struct
 {
